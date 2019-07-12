@@ -1636,7 +1636,7 @@ h6 {
 }
 .wow2{
   width: 80%;
-  margin-left: 60px;
+  margin-left: 70px;
 }
   
 }
@@ -1653,12 +1653,14 @@ h6 {
 
   .wow2{
     width: 60%;
-    margin-left: 60px;
+    margin-left: 75px;
   }
 
   .logocom{
     margin-top: -40px !important;
+    margin-left: -50px;
   }
+
 }
 
 
